@@ -1,4 +1,4 @@
-# Predict-Sales-by-Advertising-Ads-Budget
+# Predict-Sales-by-Advertising-Ads
 ---
 
 ## Project Overview
@@ -79,8 +79,7 @@ y=β0+β1×TV+β2×Radio+β3×Newspaper
 ---
 ## Model Prediction
 
-![](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/blob/master/images/index.png)
-
+![](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/blob/master/images/Capture.PNG)
 
 ---
 ## Conclusion
