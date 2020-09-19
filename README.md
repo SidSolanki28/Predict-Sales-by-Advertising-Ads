@@ -23,9 +23,9 @@ Machine Learning Regression model is developed to predict sales based on budgest
 - Packages: Pandas, Numpy, Seaborn, Matplotlib, Scikit and Statsmodels.
 - Resources used:
 
-*Analytics Vidya
-*towards data science
-*Kaggle
+* Analytics Vidya
+* towards data science
+* Kaggle
 
 ---
 ## Web Scraping
@@ -33,8 +33,6 @@ Machine Learning Regression model is developed to predict sales based on budgest
 Dataset URL: https://www.kaggle.com/ashydv/advertising-dataset/notebooks
 
 ### Data fields
-
-Values in thousand dollars.
 
 Features:
 
@@ -54,7 +52,7 @@ There is no missing values in data.
 ---
 ## EDA
 
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights :
+I looked at the distributions of the data and the value counts for the various numerical features. Below are a few highlights :
 
 ![](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/blob/master/images/index.png)
 
@@ -81,30 +79,8 @@ y=β0+β1×TV+β2×Radio+β3×Newspaper
 ---
 ## Model Prediction
 
-                            OLS Regression Results                            
-==============================================================================
-Dep. Variable:                      y   R-squared:                       0.903
-Model:                            OLS   Adj. R-squared:                  0.901
-Method:                 Least Squares   F-statistic:                     605.4
-Date:                Sat, 19 Sep 2020   Prob (F-statistic):           8.13e-99
-Time:                        11:50:24   Log-Likelihood:                -383.34
-No. Observations:                 200   AIC:                             774.7
-Df Residuals:                     196   BIC:                             787.9
-Df Model:                           3                                         
-Covariance Type:            nonrobust                                         
-==============================================================================
-                 coef    std err          t      P>|t|      [0.025      0.975]
-------------------------------------------------------------------------------
-const          4.6251      0.308     15.041      0.000       4.019       5.232
-x1             0.0544      0.001     39.592      0.000       0.052       0.057
-x2             0.1070      0.008     12.604      0.000       0.090       0.124
-x3             0.0003      0.006      0.058      0.954      -0.011       0.012
-==============================================================================
-Omnibus:                       16.081   Durbin-Watson:                   2.251
-Prob(Omnibus):                  0.000   Jarque-Bera (JB):               27.655
-Skew:                          -0.431   Prob(JB):                     9.88e-07
-Kurtosis:                       4.605   Cond. No.                         454.
-==============================================================================
+![](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/blob/master/images/index.png)
+
 
 ---
 ## Conclusion
