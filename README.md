@@ -23,9 +23,9 @@ Machine Learning Regression model is developed to predict sales based on budgest
 - Packages: Pandas, Numpy, Seaborn, Matplotlib, Scikit and Statsmodels.
 - Resources used:
 
-* Analytics Vidya
-* towards data science
-* Kaggle
+    * Analytics Vidya
+    * towards data science
+    * Kaggle
 
 ---
 ## Web Scraping
