@@ -81,7 +81,7 @@ y=β0+β1×TV+β2×Radio+β3×Newspaper
 ---
 ## Model Prediction
 
-<img src="https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/raw/master/images/Capture.PNG">)
+<img src="https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/raw/master/images/Capture.PNG">
 
 ---
 ## Conclusion
