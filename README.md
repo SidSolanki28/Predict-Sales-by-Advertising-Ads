@@ -10,6 +10,8 @@
 - Multiple Linear Regression model training and prediction
 - Statistical Analysis done from coefficients, p value, R² and Adj. R² value and F-statistic
 
+<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/display-ad-example.png" width="700" height="250">
+
 
 ---
 ## About Project
@@ -54,7 +56,7 @@ There is no missing values in data.
 
 I looked at the distributions of the data and the value counts for the various numerical features. Below are a few highlights :
 
-![](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/blob/master/images/index.png)
+<img src="https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/raw/master/images/index.png">
 
 ---
 ## Model Building
@@ -79,7 +81,7 @@ y=β0+β1×TV+β2×Radio+β3×Newspaper
 ---
 ## Model Prediction
 
-![](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/blob/master/images/Capture.PNG)
+<img src="https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads-Budget/raw/master/images/Capture.PNG">)
 
 ---
 ## Conclusion
